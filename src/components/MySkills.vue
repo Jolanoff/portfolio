@@ -13,10 +13,10 @@
                 <div class="bar-1">
                     <div class="title">HTML/CSS</div>
                     <div class="bar">
-                        <div class="bar-inner" style="width:65% ;">
+                        <div class="bar-inner" style="width:80% ;">
 
                         </div>
-                        <div class="bar-percent">65%</div>
+                        <div class="bar-percent">80%</div>
                     </div>
                 </div>
                 <div class="bar-1">
@@ -32,10 +32,10 @@
                 <div class="bar-1">
                     <div class="title">Javascript</div>
                     <div class="bar">
-                        <div class="bar-inner" style="width: 50%;">
+                        <div class="bar-inner" style="width: 60%;">
 
                         </div>
-                        <div class="bar-percent">50%</div>
+                        <div class="bar-percent">60%</div>
                     </div>
                 </div>
                 <div class="bar-1">

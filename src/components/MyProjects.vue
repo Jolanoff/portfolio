@@ -15,12 +15,12 @@
                         <div class="container">
                             <div class="box2">
                                 <div class="imgBx">
-                                    <img src="../assets/ProjectenIMG/1.png">
+                                    <img src="../assets/ProjectenIMG/Project1.png">
                                 </div>
                                 <div class="content">
-                                    <h2>Project Name</h2>
-                                    <p>Ik heb deze project gedaan omdat ik bla bla bla</p>
-                                    <a href="#" class="btn btn-primary">Download Project</a>
+                                    <h2>Animeoff</h2>
+                                    <p>Ik heb deze project gedaan omdat ik meer over api's wil leren.</p>
+                                    <a href="#" class="btn btn-primary">view Project</a>
                                 </div>
                             </div>
                         </div>

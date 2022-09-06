@@ -6,7 +6,7 @@
                     <div class="col-lg-15">
                         <div class="text-center">
                             <h1 class="mb-3">PROJECTEN</h1>
-                            <p class="mb-4">Alle projecten die ik tot nu toe heb gedaan.</p>
+                            <p class="mb-4">projecten die ik alleen heb gedaan. (er komt nog meer...)</p>
                         </div>
                     </div>
                 </div>
@@ -20,38 +20,7 @@
                                 <div class="content">
                                     <h2>Animeoff</h2>
                                     <p>Ik heb deze project gedaan omdat ik meer over api's wil leren.</p>
-                                    <a href="#" class="btn btn-primary">view Project</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4">
-                        <div class="container">
-                            <div class="box2">
-                                <div class="imgBx">
-                                    <img src="../assets/ProjectenIMG/1.png">
-                                </div>
-                                <div class="content">
-                                    <h2>Project Name</h2>
-                                    <p>Ik heb deze project gedaan omdat ik bla bla bla</p>
-                                    <a href="#" class="btn btn-primary">Download Project</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-4">
-                        <div class="container">
-                            <div class="box2">
-                                <div class="imgBx">
-                                    <img src="../assets/ProjectenIMG/1.png">
-                                </div>
-                                <div class="content">
-                                    <h2>Project Name</h2>
-                                    <p>Ik heb deze project gedaan omdat ik bla bla bla</p>
-                                    <a href="#" class="btn btn-primary">Download Project</a>
+                                    <a href="https://animeoff.genshinworldrecords.com/" class="btn btn-primary">view Project</a>
                                 </div>
                             </div>
                         </div>

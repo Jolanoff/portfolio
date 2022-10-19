@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-1">
-                <i class="far fa-sun"></i>
+                <i class="fa-solid fa-sun-bright"></i>
             </div>
             <div class="col-sm">
                 <div class="form-check form-switch">

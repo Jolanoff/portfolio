@@ -5,7 +5,7 @@
         <div class="col-5 header-img" style="height:80vh;">
             <div class="header-content">
                 <p class="fs-1 fw-bold fst-italic">Hey,<br />Mijn naam is Jolan Abou Zid</p>
-                <div class="fs-4 fw-bold ">En ik ben een software developer</div>
+                <div class="fs-4 fw-bold ">en ik ben een software developer</div>
                 <a class="btn btn-primary mt-4" href="/#AboutMe" role="button">Over Mij</a>
             </div>
         </div>

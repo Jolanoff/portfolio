@@ -62,22 +62,28 @@ a{
 }
 .dark h1{
   color: white;
+  transition: 0.5s;
 }
 .dark h2{
   color: white;
+  transition: 0.5s;
 }
 .dark .box{
   border-image: linear-gradient(to bottom, #1d1e25, #EF233C, #1d1e25) 1 100%;
+  transition: 0.5s;
 }
 .dark .box:hover{
   border-image: linear-gradient(to bottom, #1d1e25, rgb(255, 255, 255), #1d1e25) 1 100%;
   color:#EF233C ;
+  transition: 0.5s;
 }
 .dark .title{
   color: white;
+  transition: 0.5s;
 }
 .dark .bar-percent{
 color: #000000;
+transition: 0.5s;
 }
 
 

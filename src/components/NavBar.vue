@@ -23,10 +23,14 @@
           <li class="nav-item">
             <router-link to="contactMe"><a class="nav-link" aria-current="page" href="#">CONTACT</a></router-link>
           </li>
+          
+
         </ul>
-        <li class="nav-item">
-          <ToggleDark :mode="mode" @Toggle="$emit('Toggle')" />
-        </li>
+        <div class="d-flex justify-content-right">
+            <li class="nav-item">
+              <ToggleDark :mode="mode" @Toggle="$emit('Toggle')" />
+            </li>
+          </div>
       </div>
     </div>
   </nav>
@@ -58,11 +62,13 @@ nav {
 .nav-link:hover {
   color: #D90429;
 }
-.dark .navbar-toggler{
+
+.dark .navbar-toggler {
   color: #D90429;
   background-color: white;
 }
-.dark .navbar-toggler-icon{
+
+.dark .navbar-toggler-icon {
   background-color: white;
 }
 </style>

@@ -27,15 +27,13 @@
                         </div>
                         <div class="bar-percent">70%</div>
                     </div>
-
                 </div>
                 <div class="bar-1">
-                    <div class="title">Javascript</div>
+                    <div class="title">Javascript/Vue</div>
                     <div class="bar">
-                        <div class="bar-inner" style="width: 60%;">
-
+                        <div class="bar-inner" style="width: 70%;">
                         </div>
-                        <div class="bar-percent">60%</div>
+                        <div class="bar-percent">70%</div>
                     </div>
                 </div>
                 <div class="bar-1">
@@ -45,6 +43,15 @@
 
                         </div>
                         <div class="bar-percent">75%</div>
+                    </div>
+                </div>
+                <div class="bar-1">
+                    <div class="title">MySQL</div>
+                    <div class="bar">
+                        <div class="bar-inner" style=" width:80%">
+
+                        </div>
+                        <div class="bar-percent">80%</div>
                     </div>
                 </div>
             </div>

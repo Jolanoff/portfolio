@@ -1,14 +1,12 @@
 <template>
-    <div>
+    <div class="background-grey">
     <div class="row">
         
         <div class="col-lg-6 container head" style="height:10vh; ">
             <div class="d-flex flex-row justify-content-center mt-5">
-                
             <router-link to="/"><p>Home</p></router-link>
             <p><i class="fas fa-arrow-right arrow"></i></p>
             <router-link to="ContactMe"><p>Contact Me</p></router-link>
-                
             </div>
         </div>
         </div>
@@ -74,8 +72,17 @@ export default {
 </script>
 
 <style>
+.background-grey{
+    background-color:#ececec;
+    transition: 0.5s;
+}
+.dark .background-grey{
+    background-color:#1a1a1a;
+    transition: 0.5s;
+}
 .dark a{
     color: white;
+    transition: 0.5s;
 }
 .arrow{
     margin-right: 0.5vw;

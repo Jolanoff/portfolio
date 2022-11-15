@@ -15,7 +15,10 @@
                             Mijn naam is Jolan Abou Zid en ik ben 20 jaar oud. Ik heb ruim heel veel ervaring met computers opgedaan sinds ik heel jong was, ook bij verschillende bedrijven in Syrië,
                              ik ben nu bezig om mij diploma te halen bij het Novacollege als een software developer.
                              Ik ben heel goed met C#, html, css en PHP. Ik ben nu bezig met het leren van andere programmeertalen zoals Python en JavaScript.</p>
+                            <a href="https://github.com/Jolanoff"><i class="fa-brands fa-github info-icon"></i></a>
+                            <a href="https://www.linkedin.com/in/jolannn/"><i class="fa-brands fa-linkedin info-icon"></i></a>
                     </div>
+                    
                 </div>
             </div>
             <div class="container">
@@ -82,6 +85,13 @@
     .btn-primary {
         width: 30%;
     }
+}
+.info-icon{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 5vh;
+    margin: 1%;
 }
 
 .box:hover {

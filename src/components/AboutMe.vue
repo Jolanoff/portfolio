@@ -6,19 +6,23 @@
                     <div class="col">
                         <img src="../assets/PersonalPic.jpeg" id="Personal-pic">
                     </div>
-                    
+
                     <div class="col">
                         <h2>PERSOONLIJKE INFORMATIE</h2>
                         <h6 id="About" class="fw-bold">OVER MIJ</h6>
-                        
+
                         <p class="mt-5">
-                            Mijn naam is Jolan Abou Zid en ik ben 20 jaar oud. Ik heb ruim heel veel ervaring met computers opgedaan sinds ik heel jong was, ook bij verschillende bedrijven in Syrië,
-                             ik ben nu bezig om mij diploma te halen bij het Novacollege als een software developer.
-                             Ik ben heel goed met C#, html, css en PHP. Ik ben nu bezig met het leren van andere programmeertalen zoals Python en JavaScript.</p>
-                            <a href="https://github.com/Jolanoff"><i class="fa-brands fa-github info-icon"></i></a>
-                            <a href="https://www.linkedin.com/in/jolannn/"><i class="fa-brands fa-linkedin info-icon"></i></a>
+                            Mijn naam is Jolan Abou Zid en ik ben 20 jaar oud.
+                            Ik heb ruim heel veel ervaring met computers opgedaan sinds ik heel jong was, ook bij
+                            verschillende bedrijven in Syrië,
+                            nu ben ik bezig om mij diploma te halen bij het ROC Nova College als een software developer
+                            in Hoofddorp.
+                            Ik heb goed evering met C#, HTML, Javascript(meer Vue), MySQL en PHP.</p>
+                        <a href="https://github.com/Jolanoff"><i class="fa-brands fa-github info-icon"></i></a>
+                        <a href="https://www.linkedin.com/in/jolannn/"><i
+                                class="fa-brands fa-linkedin info-icon"></i></a>
                     </div>
-                    
+
                 </div>
             </div>
             <div class="container">
@@ -34,7 +38,7 @@
                         <div class="box">
                             <i class="fas fa-futbol fa-4x"></i>
                             <h3 class="fw-bold mb-2 mt-2">Football</h3>
-                            <p>sinds ik jong was, voetballde ik heel veel. Ik vind sporten in het algemeen heel leuk.
+                            <p>Sinds ik jong was, voetballde ik heel veel. Ik vind sporten in het algemeen heel leuk.
                             </p>
 
                         </div>
@@ -43,7 +47,7 @@
                         <div class="box">
                             <i class="fas fa-headset fa-4x"></i>
                             <h3 class="fw-bold mb-2 mt-2">Gaming</h3>
-                            <p> Ik game heel veel, speciaal shooting games. Daar ben ik een echte pro in.</p>
+                            <p>Ik game heel veel, speciaal shooting games. Daar ben ik een echte pro in.</p>
 
 
                         </div>
@@ -86,7 +90,8 @@
         width: 30%;
     }
 }
-.info-icon{
+
+.info-icon {
     border: 1px solid;
     border-radius: 10px;
     padding: 10px;

@@ -1,7 +1,7 @@
 <template>
     <div>
-        <section class="OVERMIJ">
-            <div class="container">
+        <section class="OVERMIJ content-border">
+            <div class="container mt-5">
                 <div class="row">
                     <div class="col">
                         <img src="../assets/PersonalPic.jpeg" id="Personal-pic">
@@ -22,49 +22,13 @@
                         <a href="https://www.linkedin.com/in/jolannn/"><i
                                 class="fa-brands fa-linkedin info-icon"></i></a>
                     </div>
-
+                    
                 </div>
             </div>
-            <div class="container">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-lg-15">
-                        <div class="title text-left">
-                            <h1 class="mb-5 mt-5">WHAT IK LEUK VIND?</h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm">
-                        <div class="box">
-                            <i class="fas fa-futbol fa-4x"></i>
-                            <h3 class="fw-bold mb-2 mt-2">Football</h3>
-                            <p>Sinds ik jong was, voetballde ik heel veel. Ik vind sporten in het algemeen heel leuk.
-                            </p>
-
-                        </div>
-                    </div>
-                    <div class="col-sm">
-                        <div class="box">
-                            <i class="fas fa-headset fa-4x"></i>
-                            <h3 class="fw-bold mb-2 mt-2">Gaming</h3>
-                            <p>Ik game heel veel, speciaal shooting games. Daar ben ik een echte pro in.</p>
-
-
-                        </div>
-                    </div>
-                    <div class="col-sm">
-                        <div class="box">
-                            <i class="fas fa-code fa-4x"></i>
-                            <h3 class="fw-bold mb-2 mt-2">Coding</h3>
-                            <p>Ik heb toen ik 10 jaar oud was een computer gekregen van mijn ouders, sinds toen vond ik
-                                codes leuk en wou ik een programmeur worden.</p>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </section>
     </div>
+    <div class="content-devider"></div>
 </template>
 <style>
 .box {
@@ -125,6 +89,74 @@ h2 {
     line-height: 1.2em !important;
     font-weight: 600;
     color: black;
+}
+
+.icons {
+    width: 250px;
+    height: 250px;
+    margin: 0.5em;
+
+
+}
+
+.dark .icons {
+    filter: brightness(0) invert(1);
+}
+
+.item_grid {
+    display: grid;
+    grid-gap: 4.5%;
+    grid-template-columns: 30% 30% 30%;
+    padding-top: 0;
+    margin: 0;
+    font-weight: normal;
+}
+
+.item_grid div {
+    min-height: 300px;
+    text-align: center;
+}
+
+.item_grid h2 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-bottom: 8px solid rgba(0, 0, 0, .05);
+    display: inline-block;
+    padding-bottom: 15px;
+}
+
+.item_grid .icons {
+    width: 100px;
+    height: 100px;
+}
+
+.item_grid p {
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 40px;
+    text-decoration: none;
+    color: #6c6c6c;
+    font-weight: normal;
+}
+.content-devider{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    height: 2px;
+    width: 100%;
+    background-color: #b1b1b1;
+    
+    
+}
+.content-border{
+    position: relative;
+    z-index: 3000;
+    border-left: 2px dashed rgba(0,0,0,.075);
+    border-right: 2px dashed rgba(0,0,0,.075);
+}
+.dark .content-border{
+    
+    border-left: 2px dashed rgba(168, 168, 168, 0.075);
+    border-right: 2px dashed rgba(145, 145, 145, 0.075);
 }
 </style>
 <script>

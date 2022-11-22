@@ -1,7 +1,7 @@
 <template>
     <div>
-        <section class="PROJECTEN">
-            <div class="container mt-5">
+        <section class="PROJECTEN content-border">
+            <div class="container">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-15">
                         <div class="text-center">
@@ -11,7 +11,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-center text-center mb-5">
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="container">
                             <div class="box2">
                                 <div class="imgBx">
@@ -43,7 +43,7 @@ export default {
 .container .box2 {
     position: relative;
     min-width: 100%;
-    height: 400px;
+    height: 700px;
     margin: 20px 0;
     overflow: hidden;
 }
@@ -55,7 +55,7 @@ export default {
     width: 100%;
     height: 100%;
     background-color: black;
-    clip-path: circle(400px at center 100px);
+    clip-path: circle(900px at center 100px);
     transition: 0.5s;
     transition-delay: 0.5s;
 
@@ -74,7 +74,7 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+   
 
 
 

@@ -6,7 +6,7 @@
                     <div class="col-sm-6 col-md-3 item">
                         <h3>OVER MIJ</h3>
                         <ul>
-                            <li><a href="/#AboutMe">Personaal</a></li>
+                            <li><a href="/#AboutMe">persoonlijke informatie</a></li>
                             <li><a href="/#Skills">Ervaring</a></li>
                             <li><a href="/#Projects">Projects</a></li>
                             <li><a href="/contactMe">Contact</a></li>

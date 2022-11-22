@@ -1,11 +1,11 @@
 <template>
     <div>
-        <section class="ERVARING">
+        <section class="ERVARING content-border">
             <div class="container">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-15">
                         <div class="text-center">
-                            <h1 class="mb-3 mt-5">MIJN ERVARING</h1>
+                            <h1 class="mb-3">MIJN ERVARING</h1>
                             <p id="ervaren">ervaren die ik heb met programmeertalen</p>
                         </div>
                     </div>
@@ -55,8 +55,11 @@
                     </div>
                 </div>
             </div>
+            
         </section>
+        <div class="content-devider"></div>
     </div>
+    
 </template>
 
 
